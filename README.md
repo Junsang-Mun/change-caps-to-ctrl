@@ -4,8 +4,8 @@ Mac 환경에서 Capslock 키를 Control 키로 바꾸어 쓰고 싶은 사람�
 
 # 어떻게 설치하나요?
 
-`bash <(curl -s https://raw.githubusercontent.com/Junsang-Mun/change-caps-to-ctrl/master/install.sh)>`
+`bash <(curl -s https://raw.githubusercontent.com/Junsang-Mun/change-caps-to-ctrl/master/install.sh)`
 
 # 어떻게 삭제하나요?
 
-`bash <(curl -s https://raw.githubusercontent.com/Junsang-Mun/change-caps-to-ctrl/master/remove.sh)>`
+`bash <(curl -s https://raw.githubusercontent.com/Junsang-Mun/change-caps-to-ctrl/master/remove.sh)`
